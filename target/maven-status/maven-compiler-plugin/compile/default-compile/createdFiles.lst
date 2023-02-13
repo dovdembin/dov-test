@@ -1,0 +1,5 @@
+io\opentelemetry\example\metrics\GaugeExample.class
+org\example\Test.class
+io\opentelemetry\example\metrics\DoubleCounterExample.class
+io\opentelemetry\example\metrics\LongCounterExample.class
+org\example\ExampleConfiguration.class
